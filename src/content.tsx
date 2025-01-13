@@ -1,7 +1,7 @@
 import { createRoot } from 'react-dom/client';
 import HelloWorld from './components/HelloWorld';
 const mountNode = document.createElement('div');
-mountNode.id = 'react-tab-manager';
+mountNode.id = 'tailwind-react-google-extension-boilerplate';
 document.body.appendChild(mountNode);
 
 const root = createRoot(mountNode);
